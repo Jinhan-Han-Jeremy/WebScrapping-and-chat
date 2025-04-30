@@ -1,4 +1,6 @@
 # WebScrapping-and-chat
+기획 : 
+https://sprout-shallot-70b.notion.site/1-Trendly-19009a18538e80bcbc55f33b8f8e9b8a
 
 ## 스프링 부트 자바
 ### auth-controller
@@ -92,6 +94,3 @@ GET
 
 GET
 /api/v1/last-google-rank/bottom
-
-기획 : 
-https://sprout-shallot-70b.notion.site/1-Trendly-19009a18538e80bcbc55f33b8f8e9b8a
